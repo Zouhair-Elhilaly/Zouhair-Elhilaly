@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zouhair</h1>
-<h3 align="center">A passionate Artificiel Intelegence from Morocco</h3>
+<h3 align="center" style="color:Blue">A passionate Artificial Intelligence student from Morocco.</h3>
 
 - 🔭 I’m currently Study on **EST Safi**
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://zouhair-portfolio.vercel.app/](https://zouhair-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://zouhair-portfolio.vercel.app/](https://zouhair-portfolio.vercel.app)
 
 - 💬 Ask me about **AI/ML**
 
