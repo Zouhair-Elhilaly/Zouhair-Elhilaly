@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://zouhair-portfolio.vercel.app/](https://zouhair-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://zouhairelhilaly.vercel.app](https://zouhairelhilaly.vercel.app/)
 
 - 💬 Ask me about **AI/ML**
 
