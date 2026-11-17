@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zouhair</h1>
 <h3 align="center" style="color:Blue">A passionate Artificial Intelligence student from Morocco.</h3>
 
-- 🔭 I’m currently Study on **EST Safi**
+- 🔭 I’m currently Study on **Faculty of Sciences Ben M'Sick (FSBM-UH2C)**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning  **AI and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://zouhairelhilaly.vercel.app](https://zouhairelhilaly.vercel.app/)
 
